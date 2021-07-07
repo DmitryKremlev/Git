@@ -7,5 +7,7 @@ public class Main {
         System.out.println("Hello world!");
 
         System.out.println("first commit : git commit;");
+
+        System.out.println("second commit");
     }
 }
